@@ -1,0 +1,2 @@
+Para agregar al registro el contexto de menu de pyton se puede con el siguiente comando:
+C:\Users\Nippur\scoop\apps\python\current\install-pep-514.reg
